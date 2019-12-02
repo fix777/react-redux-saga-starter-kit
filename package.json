@@ -2,6 +2,7 @@
   "name": "react-redux-saga-starter-kit",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "dependencies": {
     "@babel/core": "7.6.0",
     "@reduxjs/toolkit": "^1.0.4",
